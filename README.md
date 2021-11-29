@@ -1,4 +1,4 @@
-# Hello World
+# Hello World :octocat:
 ***
  Primeiro repositório do curso de **Git e Github**.
 
