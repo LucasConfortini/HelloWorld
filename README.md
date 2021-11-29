@@ -1,6 +1,7 @@
 # Hello World
- Primeiro repositório do curso de Git e Github
+***
+ Primeiro repositório do curso de **Git e Github**.
 
- Repositório criado com apoio professor Gustavo Guanabara
+ Repositório criado com apoio professor Gustavo Guanabara pelo *Curso em  Video*.
  
- Alteração do README pelo proprio Github
+ Alteração do **README** pelo proprio Github!
